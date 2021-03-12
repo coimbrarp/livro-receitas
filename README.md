@@ -1,7 +1,4 @@
 
-# Livro de receitas 
+# Primeiros passos no GitHub
 
-Ol·, bem-vindo ao meu livro de receitas.
-
-- Strogonoff de frango
-- Pudim de leite condensado
+Ol√°, bem-vindo ao meu perfil no GitHub.
